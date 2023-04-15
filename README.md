@@ -7,4 +7,4 @@ I'm passionate about the following areas:
 - Machine Learning
 - Optimization
 
-Currently, I focus on the research of diffusion model in the TTS field, especially the consistency model issued by Yang Song(OpenAI).
+Currently, I focus on the research of diffusion model in the TTS field, especially the consistency model issued by Yang Song(OpenAI&CalTech) recently.
